@@ -14,6 +14,11 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 - [**Configuración (video)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/VPNRDP.webm?raw=yes) Vídeo de configuración
 - [**Instalación**]  Guía en fase de desarrollo
 
+
+## Problemas
+
+* Para hacer sugerencias ó reportar incidencias puede enviar un correo electrónico a digitaliza.aapp@gmail.com 
+
 ## Contacto
 
 Para hacer sugerencias ó reportar incidencias puede enviar un correo electrónico a digitaliza.aapp@gmail.com 
