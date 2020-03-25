@@ -5,12 +5,12 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN a esc
 ## Versiones
 
 - [**vpnrdp_v00r01-4.iso**](https://drive.google.com/file/d/1z0506MWcTTR3q_-n0unegmEgEsfdGXc2/view?usp=sharing) (25/03/2020) LiveCD vpnrdp versión v00r01-4
-- [**vpnrdp_v00r01-4.iso.hexhash**](https://drive.google.com/file/d/1z0506MWcTTR3q_-n0unegmEgEsfdGXc2/view?usp=sharing) (25/03/2020) Huella Digital versión v00r01-4
+- [**vpnrdp_v00r01-4.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r01-4.iso.hexhash) (25/03/2020) Huella Digital versión v00r01-4
 
 ## Guías
 
-- [**Configuración (pdf)**](https://drive.google.com/file/d/1z0506MWcTTR3q_-n0unegmEgEsfdGXc2/view?usp=sharing) Guía de configuración
-- [**Configuración (video)**](https://drive.google.com/file/d/1z0506MWcTTR3q_-n0unegmEgEsfdGXc2/view?usp=sharing) Vídeo de configuración
+- [**Configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r01-4.iso.hexhash) Guía de configuración
+- [**Configuración (video)**]() Vídeo de configuración
 
 
 ## Contacto
