@@ -22,7 +22,8 @@ Para hacer sugerencias ó reportar incidencias puede enviar un correo electróni
 
 - [**LiveCD vpnrdp**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/README.md) LiveCD - Conexión a escritorios mediante VPN y RDP
 - [**Lubuntu**](https://lubuntu.net/)	Distribución Linux ligera basada en Ubuntu
-- [**OpenFortiGUI**](https://github.com/theinvisible/openfortigui) Distribución Linux ligera basada en Ubuntu
+- [**OpenFortiGUI**](https://github.com/theinvisible/openfortigui) VPN-GUI para conexiones a Fortigate basado en
+openfortivpn
 - [**Remmina**](https://remmina.org/)	Cliente de escritorio remoto
 - [**SystemBack**](https://github.com/fconidi/Systemback-1.9.3) Simple system backup and restore	
 
