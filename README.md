@@ -10,7 +10,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN a esc
 ## Guías
 
 - [**Configuración (pdf)**](https://drive.google.com/file/d/1z0506MWcTTR3q_-n0unegmEgEsfdGXc2/view?usp=sharing) Guía de configuración
-- [**Configuración (video)**](https://drive.google.com/file/d/1z0506MWcTTR3q_-n0unegmEgEsfdGXc2/view?usp=sharing) Vídeo -onfiguración
+- [**Configuración (video)**](https://drive.google.com/file/d/1z0506MWcTTR3q_-n0unegmEgEsfdGXc2/view?usp=sharing) Vídeo de configuración
 
 
 ## Contacto
