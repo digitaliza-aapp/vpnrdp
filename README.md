@@ -32,4 +32,4 @@ El liveCd vpnrdp se provee en su estado actual y sin garantías de ningún tipo.
 
 ## Descargo de responsabilidad
 
-Usted recibe el liveCd Vvpnrdp de forma gratuita, por consiguiente, uested reconoce y acepta que el personal que ha participado en el proyecto no tendrá responsabilidad alguna que surja del uso del liveCd o se relacione con dicho uso. Su único derecho o recurso legal ante cualquier problema o disconformidad con el liveCd vpnrdp es dejar de usarlo de inmediato. 
+Usted recibe el liveCd Vvpnrdp de forma gratuita, por consiguiente, usted reconoce y acepta que el personal que ha participado en el proyecto no tendrá responsabilidad alguna que surja del uso del liveCd o se relacione con dicho uso. Su único derecho o recurso legal ante cualquier problema o disconformidad con el liveCd vpnrdp es dejar de usarlo de inmediato. 
