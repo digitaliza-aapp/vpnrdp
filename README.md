@@ -1,5 +1,5 @@
 # vpnrdp
-LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN a escritorios corporativos remotos utilizando el protocolo RDP.
+LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fortigate) a escritorios corporativos remotos utilizando el protocolo RDP.
 (OpenSource para ayudar a los departamentos de IT en la crisis del COVID-19)
 
 ## Versiones
@@ -7,11 +7,12 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN a esc
 - [**vpnrdp_v00r01-4.iso**](https://drive.google.com/file/d/1z0506MWcTTR3q_-n0unegmEgEsfdGXc2/view?usp=sharing) (25/03/2020) LiveCD vpnrdp versión v00r01-4
 - [**vpnrdp_v00r01-4.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r01-4.iso.hexhash) (25/03/2020) Huella Digital versión v00r01-4
 
+
 ## Guías
 
 - [**Configuración (pdf)**]https://github.com/digitaliza-aapp/vpnrdp/blob/master/VPNRDP.webm) Guía de configuración
 - [**Configuración (video)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/VPNRDP.webm) Vídeo de configuración
-
+- [**Instalación**]  Guía en fase de desarrollo
 
 ## Contacto
 
