@@ -9,8 +9,8 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN a esc
 
 ## Guías
 
-- [**Configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r01-4.iso.hexhash) Guía de configuración
-- [**Configuración (video)**]() Vídeo de configuración
+- [**Configuración (pdf)**]https://github.com/digitaliza-aapp/vpnrdp/blob/master/VPNRDP.webm) Guía de configuración
+- [**Configuración (video)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/VPNRDP.webm) Vídeo de configuración
 
 
 ## Contacto
