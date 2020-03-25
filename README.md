@@ -17,7 +17,8 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 
 ## Problemas
 
-* Para hacer sugerencias ó reportar incidencias puede enviar un correo electrónico a digitaliza.aapp@gmail.com 
+* Error: Ha solicitado el modo H264 GFX pero su libfreerdp no admite H264 compruebe los ajuste de profundidad de color
+** Solución: Debe realizar cambios en la resolución (personalizado) y profundidad de color 
 
 ## Contacto
 
