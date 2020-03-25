@@ -10,7 +10,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 
 ## Guías
 
-- [**Configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/VPNRDP.webm) Guía de configuración
+- [**Configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/configuracion_vpnrdp_v00r02.pdf) Guía de configuración
 - [**Configuración (video)**](http://delegacionprovincial.com/digitaliza-aapp/VPNRDP.webm) Vídeo de configuración
 - [**Instalación**]  Guía en fase de desarrollo
 
