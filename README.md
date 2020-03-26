@@ -16,7 +16,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 
 ### Pasos a realizar para acceder al escritorio remoto:
 
- (Para una información más detallada consultar el manual de configuración)
+ (Para una información más detallada consultar la guía de configuración)
  
     * Arrancar la imagen desde USB o DVD
     * Conectar un USB al equipo con el certificado, renombrarlo como "certificado.p12" y copiarlo al escritorio
