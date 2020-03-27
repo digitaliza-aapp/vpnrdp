@@ -16,7 +16,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 
 ## Guías
 
-- [**Configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/configuracion_vpnrdp_v00r02.pdf?raw=yes) Guía de configuración
+- [**Configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/configuracion_vpnrdp_v00r02-3.pdf?raw=yes) Guía de configuración
 - [**Configuración (video)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/VPNRDP.webm?raw=yes) Vídeo de configuración
 
 ### Pasos a realizar para acceder al escritorio remoto:
