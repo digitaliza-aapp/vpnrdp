@@ -24,7 +24,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
  (Para una información más detallada consultar la `Guía de configuración`)
  
   1. Arrancar la imagen desde USB o DVD
-  2. Conectar un USB al equipo con el certificado, renombrarlo como `certificado.p12` y copiarlo al escritorio
+  2. Conectar un USB al equipo con el certificado (p12 ó pfx), renombrarlo como `certificado.p12` y copiarlo al escritorio
   3. Ejecutar el script `Instalar Certificado` que está en el escritorio
   4. Abrir OpenFortiGUI y poner las credenciales (usuario/contraseña) y acceder a la VPN
   5. Abrir Remmina y poner las credenciales para acceder al escritorio remoto (IP,usuario,contraseña y dominio)
