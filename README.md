@@ -4,6 +4,12 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 
 ## Versiones
 
+### 32bits (Válido para todos los equipos - Base Lubuntu 16.04.3 i386)
+
+- [**vpnrdp_v00r02-3.iso (32bits)**](https://drive.google.com/file/d/1TyIt6fGtcpXcdhK3ixamQJc-uYBFD57C/view?usp=sharing) (27/03/2020) LiveCD vpnrdp versión v00r02-3 i386 
+- [**vpnrdp_v00r02-3.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-3.iso.hexhash?raw=yes) (25/03/2020) Huella Digital versión v00r02-3
+
+
 - [**vpnrdp_v00r01-4.iso (64bits)**](https://drive.google.com/file/d/1z0506MWcTTR3q_-n0unegmEgEsfdGXc2/view?usp=sharing) (25/03/2020) LiveCD vpnrdp versión v00r01-4
 - [**vpnrdp_v00r01-4.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r01-4.iso.hexhash?raw=yes) (25/03/2020) Huella Digital versión v00r01-4
 
