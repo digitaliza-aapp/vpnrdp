@@ -27,14 +27,17 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
  
   1. Arrancar la imagen desde USB o DVD
   2. Conectar un USB al equipo con el certificado (p12 ó pfx), renombrarlo como `certificado.p12` y copiarlo al escritorio
-  3. Ejecutar el script `Instalar Certificado` que está en el escritorio
-  4. Abrir OpenFortiGUI y poner las credenciales (usuario/contraseña) y acceder a la VPN
-  5. Abrir Remmina y poner las credenciales para acceder al escritorio remoto (IP,usuario,contraseña y dominio)
+  3. Ejecutar el script `Instalar Certificado` que está en el escritorio `haciendo doble clic sobre el icono`
+  4. Abrir OpenFortiGUI `haciendo doble clic sobre el icono` y poner las credenciales (usuario/contraseña) y acceder a la VPN
+  5. Abrir Remmina `haciendo doble clic sobre el icono` y poner las credenciales para acceder al escritorio remoto (IP,usuario,contraseña y dominio)
 
 
 ## Problemas
 
 ### Error 1: Ha solicitado el modo H264 GFX pero su libfreerdp no admite H264 compruebe los ajuste de profundidad de color
+  ```Solución: Realizar cambios en la profundidad de color (Ejemplo: Color verdadero 24ppp)```
+
+### Error 2: Al Ha solicitado el modo H264 GFX pero su libfreerdp no admite H264 compruebe los ajuste de profundidad de color
   ```Solución: Realizar cambios en la profundidad de color (Ejemplo: Color verdadero 24ppp)```
 
 ## Contacto
