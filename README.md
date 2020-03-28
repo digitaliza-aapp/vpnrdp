@@ -4,6 +4,8 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 
 ## Versiones
 
+ Recomendación: Utilizar la versión de 32bits y si no funciona correctamente utilizar la versión de 64bits
+
 ### 32bits (Lubuntu 16.04.3 i386 - Válido para todos los equipos)
 
 - [**vpnrdp_v00r02-3_i386.iso**](https://drive.google.com/file/d/1TyIt6fGtcpXcdhK3ixamQJc-uYBFD57C/view?usp=sharing) (27/03/2020) LiveCD vpnrdp versión v00r02-3 i386 
