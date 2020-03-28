@@ -37,7 +37,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 ### Error 1: Ha solicitado el modo H264 GFX pero su libfreerdp no admite H264 compruebe los ajuste de profundidad de color
   ```Solución: Realizar cambios en la profundidad de color (Ejemplo: Color verdadero 24ppp)```
 
-### Error 2: Al hacer doble clic sobre el icono `Instalar Certificado`no se solicita palabra de paso del certificado digital
+### Error 2: Al hacer doble clic sobre el icono `Instalar Certificado`no se solicita la palabra de paso del certificado digital
 
   1. Pulsar simultaneamente las teclas `Ctrl` + ` Alt` + `t` y aparecerá un terminal de comandos
   2. Teclear `./Escritorio/Instalar\ Certificado` y pulsar la tecla `Ènter`
