@@ -4,7 +4,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 
 ## Versiones
 
- Recomendación: Utilizar la versión de 32bits y si no funciona correctamente utilizar la versión de 64bits
+   `Recomendación: Utilizar la versión de 32bits y si no funciona correctamente utilizar la versión de 64bits`
 
 ### 32bits (Lubuntu 16.04.3 i386 - Válido para todos los equipos)
 
