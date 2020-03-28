@@ -42,6 +42,8 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
   1. Pulsar simultaneamente las teclas `Ctrl` + ` Alt` + `t` y aparecerá un terminal de comandos
   2. Teclear `./Escritorio/Instalar\ Certificado` y pulsar la tecla `Ènter`
   3. Introducir la contraseña del certificado (2 veces).
+  
+  ![](imagenes/Terminal_Instalar_Certificado.png)
 
 ## Contacto
 
