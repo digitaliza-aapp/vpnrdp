@@ -34,7 +34,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 
 ## Problemas
 
-### Error: Ha solicitado el modo H264 GFX pero su libfreerdp no admite H264 compruebe los ajuste de profundidad de color
+### Error 1: Ha solicitado el modo H264 GFX pero su libfreerdp no admite H264 compruebe los ajuste de profundidad de color
   ```Solución: Realizar cambios en la profundidad de color (Ejemplo: Color verdadero 24ppp)```
 
 ## Contacto
