@@ -40,7 +40,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 ### Error 2: Al hacer doble clic sobre el icono `Instalar Certificado`no se solicita la palabra de paso del certificado digital
 
   1. Pulsar simultaneamente las teclas `Ctrl` + ` Alt` + `t` y aparecerá un terminal de comandos
-  2. Teclear `./Escritorio/Instalar\ Certificado` y pulsar la tecla `Ènter`
+  2. Teclear `./Escritorio/Instalar\ Certificado` y pulsar la tecla `Enter`
   3. Introducir la contraseña del certificado (2 veces).
   
   ![](imagenes/Terminal_Instalar_Certificado_01.png)
