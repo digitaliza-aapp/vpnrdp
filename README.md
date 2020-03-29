@@ -29,11 +29,15 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 - [**vpnrdp_v00r02-6_amd64.iso**](https://drive.google.com/file/d/12cgE48wigek6FlLeAirsdYNDQVIDn90O/view?usp=sharing) (29/03/2020) LiveCD vpnrdp versión v00r02-6 amd64 
 - [**vpnrdp_v00r02-6_amd64.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-6_amd64.iso.hexhash?raw=yes) (29/03/2020) Huella Digital versión v00r02-6 amd64
 
+ `Versión v00r02-6 i386: Añadir herramientas para clonado y generación de USBs con persistencia`
+ 
 #### Versión v00r01-4 amd64 - 25/03/2020
 
 - [**vpnrdp_v00r01-4.iso**](https://drive.google.com/file/d/1z0506MWcTTR3q_-n0unegmEgEsfdGXc2/view?usp=sharing) (25/03/2020) LiveCD vpnrdp versión v00r01-4
 - [**vpnrdp_v00r01-4.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r01-4.iso.hexhash?raw=yes) (25/03/2020) Huella Digital versión v00r01-4
 
+ `Versión v00r01-4 amd64: Lubuntu 18.04.4 LTS (bionic), openfortigui, remmina`
+ 
 ## Guías
 
 - [**Configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-3.pdf?raw=yes) Guía de configuración
