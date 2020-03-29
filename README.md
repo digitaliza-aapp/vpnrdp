@@ -8,8 +8,8 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 
 ### 32bits (Lubuntu 16.04.3 i386 - Válido para todos los equipos)
 
-- [**vpnrdp_v00r02-6_i386.iso**](https://drive.google.com/file/d/12cgE48wigek6FlLeAirsdYNDQVIDn90O/view?usp=sharing) (27/03/2020) LiveCD vpnrdp versión v00r02-6 i386 
-- [**vpnrdp_v00r02-6_i386.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-6_i386.iso.hexhash?raw=yes) (27/03/2020) Huella Digital versión v00r02-6 i386
+- [**vpnrdp_v00r02-6_i386.iso**](https://drive.google.com/file/d/12cgE48wigek6FlLeAirsdYNDQVIDn90O/view?usp=sharing) (29/03/2020) LiveCD vpnrdp versión v00r02-6 i386 
+- [**vpnrdp_v00r02-6_i386.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-6_i386.iso.hexhash?raw=yes) (29/03/2020) Huella Digital versión v00r02-6 i386
 
 - [**vpnrdp_v00r02-3_i386.iso**](https://drive.google.com/file/d/1TyIt6fGtcpXcdhK3ixamQJc-uYBFD57C/view?usp=sharing) (27/03/2020) LiveCD vpnrdp versión v00r02-3 i386 
 - [**vpnrdp_v00r02-3_i386.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-3_i386.iso.hexhash?raw=yes) (27/03/2020) Huella Digital versión v00r02-3 i386
