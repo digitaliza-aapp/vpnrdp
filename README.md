@@ -22,7 +22,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 
  `Versión v00r02-3 i386: Lubuntu 16.04.3 LTS (xenial), openfortigui, remmina`
  
-### 64bits (Lubuntu 18.04.3 amd64 - Sólo arquitecturas de 64bits)
+### 64bits (Lubuntu 18.04.4 amd64 - Sólo arquitecturas de 64bits)
 
 #### Versión v00r02-6 amd64 - 29/03/2020
 
