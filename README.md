@@ -2,6 +2,11 @@
 LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fortigate) a escritorios corporativos remotos utilizando el protocolo RDP.
 (OpenSource para ayudar a los departamentos de IT en la crisis del COVID-19)
 
+Para conseguir una mayor compatibilidad hardware y con el objetivo de usar pocos recursos del sistema, se han creado imágenes ISO utilizando dos distribuciones ligeras de Ubuntu en 32bits (i386) y 64bits (amd64):
+
+- Xubuntu: Ubuntu + Escritorio ligero XFCE
+- Lubuntu: Ubuntu + Escritorio ligero LXDE
+
 ### Pasos a realizar para acceder al escritorio remoto:
 
  (Para una información más detallada consultar la `Guía de configuración`)
