@@ -22,12 +22,12 @@ Para conseguir una mayor compatibilidad hardware y con el objetivo de utilizar p
 - [**Configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-3.pdf?raw=yes) Guía de configuración
 - [**Configuración (video)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/VPNRDP.webm?raw=yes) Vídeo de configuración
 
-## Versiones
-
 ### Notas:
 
 - Si va a utilizar hardware antiguo debe utilizar la versión de 32bits
 - Si el equipo no arranca correctamente o no detecta bien el hardware (wifi, etc.) cambie de distribución (Opciones: Xubuntu/Lubuntu)
+
+## Versiones
 
 ### Xubuntu
 
