@@ -24,7 +24,7 @@ Para conseguir una mayor compatibilidad hardware y con el objetivo de utilizar p
 
 ## Versiones
 
-   `Recomendación: Utilizar la versión de 32bits y si no funciona correctamente utilizar la versión de 64bits`
+   `Nota: Si va a utilizar hardware antiguo debe utilizar la versión de 32bits`
 
 ### Xubuntu
 
