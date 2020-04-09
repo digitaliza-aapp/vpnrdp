@@ -2,6 +2,21 @@
 LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fortigate) a escritorios corporativos remotos utilizando el protocolo RDP.
 (OpenSource para ayudar a los departamentos de IT en la crisis del COVID-19)
 
+### Pasos a realizar para acceder al escritorio remoto:
+
+ (Para una información más detallada consultar la `Guía de configuración`)
+ 
+  1. Arrancar la imagen desde USB o DVD
+  2. Conectar un USB al equipo con el certificado (p12 ó pfx), renombrarlo como `certificado.p12` y copiarlo al escritorio
+  3. Ejecutar el script `Instalar Certificado` que está en el escritorio `haciendo doble clic sobre el icono`
+  4. Abrir OpenFortiGUI `haciendo doble clic sobre el icono` y poner las credenciales (usuario/contraseña) y acceder a la VPN
+  5. Abrir Remmina `haciendo doble clic sobre el icono` y poner las credenciales para acceder al escritorio remoto (IP,usuario,contraseña y dominio)
+
+## Guías
+
+- [**Configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-3.pdf?raw=yes) Guía de configuración
+- [**Configuración (video)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/VPNRDP.webm?raw=yes) Vídeo de configuración
+
 ## Versiones
 
    `Recomendación: Utilizar la versión de 32bits y si no funciona correctamente utilizar la versión de 64bits`
@@ -37,22 +52,6 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 - [**vpnrdp_v00r01-4.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r01-4.iso.hexhash?raw=yes) (25/03/2020) Huella Digital versión v00r01-4
 
  `Versión v00r01-4 amd64: Lubuntu 18.04.4 LTS (bionic), openfortigui, remmina`
- 
-## Guías
-
-- [**Configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-3.pdf?raw=yes) Guía de configuración
-- [**Configuración (video)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/VPNRDP.webm?raw=yes) Vídeo de configuración
-
-### Pasos a realizar para acceder al escritorio remoto:
-
- (Para una información más detallada consultar la `Guía de configuración`)
- 
-  1. Arrancar la imagen desde USB o DVD
-  2. Conectar un USB al equipo con el certificado (p12 ó pfx), renombrarlo como `certificado.p12` y copiarlo al escritorio
-  3. Ejecutar el script `Instalar Certificado` que está en el escritorio `haciendo doble clic sobre el icono`
-  4. Abrir OpenFortiGUI `haciendo doble clic sobre el icono` y poner las credenciales (usuario/contraseña) y acceder a la VPN
-  5. Abrir Remmina `haciendo doble clic sobre el icono` y poner las credenciales para acceder al escritorio remoto (IP,usuario,contraseña y dominio)
-
 
 ## Problemas
 
