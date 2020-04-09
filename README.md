@@ -27,7 +27,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 
 ##### Versión v00r02-8x i386 - 9/04/2020
 
-- [**vpnrdp_v00r02-8x_i386.iso**](https://drive.google.com/file/d/1vSydLWYLegCkk1uDnXZK72AETPfnGPQ3/view?usp=sharing) (9/04/2020) LiveCD vpnrdp versión v00r02-8x i386 
+- [**vpnrdp_v00r02-8x_i386.iso**](https://drive.google.com/file/d/1fRM5PWdOmFYDIsWvUjNOPnzTAPEMaxly/view?usp=sharing) (9/04/2020) LiveCD vpnrdp versión v00r02-8x i386 
 - [**vpnrdp_v00r02-8x_i386.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-8l_i386.iso.hexhash?raw=yes) (9/04/2020) Huella Digital versión v00r02-8x i386  
  
 
@@ -35,7 +35,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 
 #### Versión v00r02-8x amd64 - 9/04/2020
 
-- [**vpnrdp_v00r02-8x_amd64.iso**](https://drive.google.com/file/d/1nSl3EVLcerXn0rP18SIJEziThkzNPaR7/view?usp=sharing) (9/04/2020) LiveCD vpnrdp versión v00r02-8x amd64 
+- [**vpnrdp_v00r02-8x_amd64.iso**](https://drive.google.com/file/d/1VI78GwuafvOn5iqThvObzV8_r5dW2MXC/view?usp=sharing) (9/04/2020) LiveCD vpnrdp versión v00r02-8x amd64 
 - [**vpnrdp_v00r02-8x_amd64.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-8x_amd64.iso.hexhash?raw=yes) (9/04/2020) Huella Digital versión v00r02-8x amd64
 
  
