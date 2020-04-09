@@ -4,8 +4,8 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 
 Para conseguir una mayor compatibilidad hardware y con el objetivo de utilizar pocos recursos del sistema, se han creado imágenes `ISO` utilizando dos distribuciones ligeras de Ubuntu:
 
-- Xubuntu: Ubuntu + Escritorio ligero XFCE (32bits (i386) y 64bits (amd64))
-- Lubuntu: Ubuntu + Escritorio ligero LXDE (32bits (i386) y 64bits (amd64))
+- Xubuntu: Ubuntu + Escritorio ligero XFCE (en 32bits y 64bits)
+- Lubuntu: Ubuntu + Escritorio ligero LXDE (en 32bits y 64bits)
 
 ### Pasos a realizar para acceder al escritorio remoto:
 
