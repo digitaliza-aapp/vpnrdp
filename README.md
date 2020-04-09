@@ -21,38 +21,43 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 
    `Recomendación: Utilizar la versión de 32bits y si no funciona correctamente utilizar la versión de 64bits`
 
-### 32bits (Lubuntu 16.04.3 i386 - Válido para todos los equipos)
+### Xubuntu
 
-#### Versión v00r02-6 i386 - 29/03/2020
+#### 32bits (Xubuntu 16.04.3 i386)
 
-- [**vpnrdp_v00r02-6_i386.iso**](https://drive.google.com/file/d/1exb0jNwevglBLeoX6skN3FipiWYFUW7S/view?usp=sharing) (29/03/2020) LiveCD vpnrdp versión v00r02-6 i386 
-- [**vpnrdp_v00r02-6_i386.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-6_i386.iso.hexhash?raw=yes) (29/03/2020) Huella Digital versión v00r02-6 i386  
+##### Versión v00r02-8x i386 - 9/04/2020
+
+- [**vpnrdp_v00r02-8x_i386.iso**](https://drive.google.com/file/d/1vSydLWYLegCkk1uDnXZK72AETPfnGPQ3/view?usp=sharing) (9/04/2020) LiveCD vpnrdp versión v00r02-8x i386 
+- [**vpnrdp_v00r02-8x_i386.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-8l_i386.iso.hexhash?raw=yes) (9/04/2020) Huella Digital versión v00r02-8x i386  
+ 
+
+#### 64bits (Lubuntu 18.04.4 amd64 - Arquitecturas de 64bits)
+
+#### Versión v00r02-8x amd64 - 9/04/2020
+
+- [**vpnrdp_v00r02-8x_amd64.iso**](https://drive.google.com/file/d/1nSl3EVLcerXn0rP18SIJEziThkzNPaR7/view?usp=sharing) (9/04/2020) LiveCD vpnrdp versión v00r02-8x amd64 
+- [**vpnrdp_v00r02-8x_amd64.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-8x_amd64.iso.hexhash?raw=yes) (9/04/2020) Huella Digital versión v00r02-8x amd64
+
+ 
+### Lubuntu
+
+#### 32bits (Lubuntu 16.04.3 i386)
+
+##### Versión v00r02-8l i386 - 9/04/2020
+
+- [**vpnrdp_v00r02-8l_i386.iso**](https://drive.google.com/file/d/1vSydLWYLegCkk1uDnXZK72AETPfnGPQ3/view?usp=sharing) (9/04/2020) LiveCD vpnrdp versión v00r02-8l i386 
+- [**vpnrdp_v00r02-8l_i386.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-6_i386.iso.hexhash?raw=yes) (9/04/2020) Huella Digital versión v00r02-8l i386  
+ 
+
+#### 64bits (Lubuntu 18.04.4 amd64 - Arquitecturas de 64bits)
+
+#### Versión v00r02-8l amd64 - 9/04/2020
+
+- [**vpnrdp_v00r02-8l_amd64.iso**](https://drive.google.com/file/d/1nSl3EVLcerXn0rP18SIJEziThkzNPaR7/view?usp=sharing) (9/04/2020) LiveCD vpnrdp versión v00r02-8l amd64 
+- [**vpnrdp_v00r02-8l_amd64.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-6_amd64.iso.hexhash?raw=yes) (9/04/2020) Huella Digital versión v00r02-8l amd64
 
  `Versión v00r02-6 i386: Añadir herramientas para clonado y generación de USBs con persistencia`
  
-#### Versión v00r02-3 i386 - 27/03/2020
-
-- [**vpnrdp_v00r02-3_i386.iso**](https://drive.google.com/file/d/1TyIt6fGtcpXcdhK3ixamQJc-uYBFD57C/view?usp=sharing) (27/03/2020) LiveCD vpnrdp versión v00r02-3 i386 
-- [**vpnrdp_v00r02-3_i386.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-3_i386.iso.hexhash?raw=yes) (27/03/2020) Huella Digital versión v00r02-3 i386
-
- `Versión v00r02-3 i386: Lubuntu 16.04.3 LTS (xenial), openfortigui, remmina`
- 
-### 64bits (Lubuntu 18.04.4 amd64 - Sólo arquitecturas de 64bits)
-
-#### Versión v00r02-6 amd64 - 29/03/2020
-
-- [**vpnrdp_v00r02-6_amd64.iso**](https://drive.google.com/file/d/12cgE48wigek6FlLeAirsdYNDQVIDn90O/view?usp=sharing) (29/03/2020) LiveCD vpnrdp versión v00r02-6 amd64 
-- [**vpnrdp_v00r02-6_amd64.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-6_amd64.iso.hexhash?raw=yes) (29/03/2020) Huella Digital versión v00r02-6 amd64
-
- `Versión v00r02-6 i386: Añadir herramientas para clonado y generación de USBs con persistencia`
- 
-#### Versión v00r01-4 amd64 - 25/03/2020
-
-- [**vpnrdp_v00r01-4.iso**](https://drive.google.com/file/d/1z0506MWcTTR3q_-n0unegmEgEsfdGXc2/view?usp=sharing) (25/03/2020) LiveCD vpnrdp versión v00r01-4
-- [**vpnrdp_v00r01-4.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r01-4.iso.hexhash?raw=yes) (25/03/2020) Huella Digital versión v00r01-4
-
- `Versión v00r01-4 amd64: Lubuntu 18.04.4 LTS (bionic), openfortigui, remmina`
-
 ## Problemas
 
 ### Error 1: Ha solicitado el modo H264 GFX pero su libfreerdp no admite H264 compruebe los ajuste de profundidad de color
