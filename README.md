@@ -46,7 +46,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 ##### Versión v00r02-8l i386 - 9/04/2020
 
 - [**vpnrdp_v00r02-8l_i386.iso**](https://drive.google.com/file/d/1vSydLWYLegCkk1uDnXZK72AETPfnGPQ3/view?usp=sharing) (9/04/2020) LiveCD vpnrdp versión v00r02-8l i386 
-- [**vpnrdp_v00r02-8l_i386.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-6_i386.iso.hexhash?raw=yes) (9/04/2020) Huella Digital versión v00r02-8l i386  
+- [**vpnrdp_v00r02-8l_i386.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-8l_i386.iso.hexhash?raw=yes) (9/04/2020) Huella Digital versión v00r02-8l i386  
  
 
 #### 64bits (Lubuntu 18.04.4 amd64 - Arquitecturas de 64bits)
@@ -54,7 +54,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 #### Versión v00r02-8l amd64 - 9/04/2020
 
 - [**vpnrdp_v00r02-8l_amd64.iso**](https://drive.google.com/file/d/1nSl3EVLcerXn0rP18SIJEziThkzNPaR7/view?usp=sharing) (9/04/2020) LiveCD vpnrdp versión v00r02-8l amd64 
-- [**vpnrdp_v00r02-8l_amd64.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-6_amd64.iso.hexhash?raw=yes) (9/04/2020) Huella Digital versión v00r02-8l amd64
+- [**vpnrdp_v00r02-8l_amd64.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-8l_amd64.iso.hexhash?raw=yes) (9/04/2020) Huella Digital versión v00r02-8l amd64
 
  `Versión v00r02-6 i386: Añadir herramientas para clonado y generación de USBs con persistencia`
  
