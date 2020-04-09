@@ -27,7 +27,7 @@ Para conseguir una mayor compatibilidad hardware y con el objetivo de utilizar p
 ### Notas:
 
 - Si va a utilizar hardware antiguo debe utilizar la versión de 32bits
-- Si el equipo no arranca correctamente o no detecta bien el hardware (wifi, etc.) cambie de distribución (Opciones: XUbuntu/Lubuntu)
+- Si el equipo no arranca correctamente o no detecta bien el hardware (wifi, etc.) cambie de distribución (Opciones: Xubuntu/Lubuntu)
 
 ### Xubuntu
 
