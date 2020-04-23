@@ -71,7 +71,7 @@ Para conseguir una mayor compatibilidad hardware y con el objetivo de utilizar p
 ### Error 1: Ha solicitado el modo H264 GFX pero su libfreerdp no admite H264 compruebe los ajuste de profundidad de color
   ```Solución: Realizar cambios en la profundidad de color (Ejemplo: Color verdadero 16ppp)```
    
-  ````Si detecta problemas en conexiónes RDP que a su vez utilizan clientes Citrix pruebe cambiar la profundidad de color a 16ppp````
+  ````Si detecta problemas en conexiónes RDP que a su vez utilizan clientes Citrix pruebe cambiar la profundidad de color a 16ppp o inferior````
 
 ### Error 2: Al hacer doble clic sobre el icono `Instalar Certificado`no se solicita la palabra de paso del certificado digital
 
