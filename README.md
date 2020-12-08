@@ -12,16 +12,14 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN a esc
 
 ## Opciones de funcionamiento
 
-
   <img src="imagenes/VPNRDP_Opciones.png" >
-  ![](imagenes/VPNRDP_Opciones.png)
-
+ 
 ## Pasos a realizar para acceder al escritorio remoto:
 
  (Para una información más detallada consultar la `Guía de configuración`)
  
-   ![](imagenes/VPNRDP_Pasos.png)
-   
+  <img src="imagenes/VPNRDP_Pasos.png" width="50%"  >
+    
   1. Arrancar la imagen desde USB o DVD
   2. Conectar un USB al equipo con el certificado (p12 ó pfx)
   3. Ejecutar el script para instalar el certificado `haciendo doble clic sobre el icono`
