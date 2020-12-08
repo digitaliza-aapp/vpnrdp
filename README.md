@@ -31,13 +31,18 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN a esc
 Para hacer sugerencias ó reportar incidencias puede enviar un correo electrónico a digitaliza.aapp@gmail.com  
 
 ## Créditos
-
 - [**LiveCD vpnrdp**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/README.md) LiveCD - Conexión a escritorios mediante VPN y RDP
 - [**Xubuntu**](https://xubuntu.org/)	Distribución Linux ligera basada en Ubuntu + Escritorio ligero XFCE
 - [**OpenFortiGUI**](https://github.com/theinvisible/openfortigui) VPN-GUI para conexiones a Fortigate basado en
 openfortivpn
 - [**Remmina**](https://remmina.org/)	Cliente de escritorio remoto
-- [**SystemBack**](https://sourceforge.net/projects/systemback/) Simple system backup and restore	
+- [**Mkusb**](https://launchpad.net/~mkusb/+archive/ubuntu/ppa) Herramienta para crear unidades de arranque USB
+- [**Clamav**](https://www.clamav.net/downloads) Antivirus Open Source
+- [**Firefox**](http://mozilla.org) Navegador Web
+- [**FreeRDP**](https://github.com/FreeRDP/FreeRDP) Implementación protocolo RDP
+- [**XFreeRDP-GUI**](https://github.com/wyllianbs/xfreerdp-gui) Entorno gráfico para FreeRDP
+- [**Docky**](https://launchpad.net/docky) Lanzador de aplicaciones
+- [**SystemBack**](https://sourceforge.net/projects/systemback/) Simple system backup and restore
 
 ## Ausencia de garantías
 
