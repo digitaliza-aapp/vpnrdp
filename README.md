@@ -2,7 +2,7 @@
 LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fortigate) a escritorios corporativos remotos utilizando el protocolo RDP.
 (OpenSource para ayudar a los departamentos de IT en la crisis del COVID-19)
 
-  ![](imagenes/Terminal_Instalar_Certificado_01.png)
+  ![](imagenes/VPNRDP_Opciones.png)
 
 - [**vpnrdp_kiosk_v02r09x.iso**](https://drive.google.com/file/d/1VI78GwuafvOn5iqThvObzV8_r5dW2MXC/view?usp=sharing) (9/04/2020) LiveCD vpnrdp_kiosk versión v02r09x 
 - [**vpnrdp_kiosk_v02r09x.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_kiosk_v02r09x.iso.hexhash?raw=yes) (7/12/2020) Huella Digital versión v02r09x
