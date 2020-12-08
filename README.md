@@ -2,11 +2,17 @@
 LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fortigate) a escritorios corporativos remotos utilizando el protocolo RDP.
 (OpenSource para ayudar a los departamentos de IT en la crisis del COVID-19)
 
-  ![](imagenes/VPNRDP_Opciones.png)
+[**Presentación del proyecto (video)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/Vpnrdp%20Digitalizaaapp%20V00r01-18.webm?raw=yes) Vídeo de presentación
 
-- [**Presentación del proyecto (video)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/Vpnrdp%20Digitalizaaapp%20V00r01-18.webm?raw=yes) Vídeo de presentación
+## Descargas
+
 - [**vpnrdp_kiosk_v02r09x.iso**](https://drive.google.com/file/d/1tnGorP1_Dndvur_7hRf5QQoVzzetgxJd/view?usp=sharing) (9/04/2020) LiveCD vpnrdp_kiosk versión v02r09x 
 - [**vpnrdp_kiosk_v02r09x.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_kiosk_v02r09x.iso.hexhash?raw=yes) (7/12/2020) Huella Digital versión v02r09x
+- [**Guía de configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/Vpnrdp%20Digitalizaaapp%20V00r01-18.pdf?raw=yes) Guía de configuración
+
+## Opciones de funcionamiento
+
+  ![](imagenes/VPNRDP_Opciones.png)
 
 ### Pasos a realizar para acceder al escritorio remoto:
 
@@ -19,12 +25,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
   3. Ejecutar el script `Instalar Certificado` que está en el escritorio `haciendo doble clic sobre el icono`
   4. Abrir OpenFortiGUI `haciendo doble clic sobre el icono` y poner las credenciales (usuario/contraseña) y acceder a la VPN
   5. Abrir Remmina `haciendo doble clic sobre el icono` y poner las credenciales para acceder al escritorio remoto (IP,usuario,contraseña y dominio)
-
-## Guías
-
-- [**Configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/Vpnrdp Digitalizaaapp V00r01-18.pdf?raw=yes) Guía de configuración
-- [**Configuración (video)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/VPNRDP.webm?raw=yes) Vídeo de configuración
-
+  
 ## Contacto
 
 Para hacer sugerencias ó reportar incidencias puede enviar un correo electrónico a digitaliza.aapp@gmail.com  
