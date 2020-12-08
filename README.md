@@ -2,7 +2,7 @@
 LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fortigate) a escritorios corporativos remotos utilizando el protocolo RDP.
 (OpenSource para ayudar a los departamentos de IT en la crisis del COVID-19)
 
-[**Presentación del proyecto (video)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/Vpnrdp%20Digitalizaaapp%20V00r01-18.webm?raw=yes) Vídeo de presentación
+[**Presentación del proyecto**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/Vpnrdp%20Digitalizaaapp%20V00r01-18.webm?raw=yes) Vídeo de presentación
 
 ## Descargas
 
