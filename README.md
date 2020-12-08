@@ -22,33 +22,6 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 - [**Configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/Vpnrdp Digitalizaaapp V00r01-18.pdf?raw=yes) Guía de configuración
 - [**Configuración (video)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/VPNRDP.webm?raw=yes) Vídeo de configuración
 
-### Notas:
-
-- Si va a utilizar hardware antiguo debe utilizar la versión de 32bits
-- Si el equipo no arranca correctamente o no detecta bien el hardware (wifi, etc.) cambie de distribución (Opciones: Xubuntu/Lubuntu)
-
-## Versiones antiguas (no recomendadas)
-
-Versiones no recomendadas, solamente están disponibles las versiones de 32bits.
-### Xubuntu
-
-#### 32bits (Xubuntu 16.04.3 i386)
-
-##### Versión v00r02-8x i386 - 9/04/2020
-
-- [**vpnrdp_v00r02-8x_i386.iso**](https://drive.google.com/file/d/1fRM5PWdOmFYDIsWvUjNOPnzTAPEMaxly/view?usp=sharing) (9/04/2020) LiveCD vpnrdp versión v00r02-8x i386 
-- [**vpnrdp_v00r02-8x_i386.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-8x_i386.iso.hexhash?raw=yes) (9/04/2020) Huella Digital versión v00r02-8x i386   
-
-### Lubuntu
-
-#### 32bits (Lubuntu 16.04.3 i386)
-
-##### Versión v00r02-8l i386 - 9/04/2020
-
-- [**vpnrdp_v00r02-8l_i386.iso**](https://drive.google.com/file/d/1vSydLWYLegCkk1uDnXZK72AETPfnGPQ3/view?usp=sharing) (9/04/2020) LiveCD vpnrdp versión v00r02-8l i386 
-- [**vpnrdp_v00r02-8l_i386.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-8l_i386.iso.hexhash?raw=yes) (9/04/2020) Huella Digital versión v00r02-8l i386  
- 
-
 ## Contacto
 
 Para hacer sugerencias ó reportar incidencias puede enviar un correo electrónico a digitaliza.aapp@gmail.com  
