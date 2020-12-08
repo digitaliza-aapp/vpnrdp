@@ -2,10 +2,8 @@
 LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fortigate) a escritorios corporativos remotos utilizando el protocolo RDP.
 (OpenSource para ayudar a los departamentos de IT en la crisis del COVID-19)
 
-Para conseguir una mayor compatibilidad hardware y con el objetivo de utilizar pocos recursos del sistema, se han creado imágenes `ISO` utilizando dos distribuciones ligeras de Ubuntu:
-
-- Xubuntu: Ubuntu + Escritorio ligero XFCE (en 32bits y 64bits)
-- Lubuntu: Ubuntu + Escritorio ligero LXDE (en 32bits y 64bits)
+- [**vpnrdp_kiosk_v02r09x.iso**](https://drive.google.com/file/d/1VI78GwuafvOn5iqThvObzV8_r5dW2MXC/view?usp=sharing) (9/04/2020) LiveCD vpnrdp_kiosk versión v02r09x 
+- [**vpnrdp_kiosk_v02r09x.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_kiosk_v02r09x.iso.hexhash?raw=yes) (7/12/2020) Huella Digital versión v02r09x
 
 ### Pasos a realizar para acceder al escritorio remoto:
 
@@ -19,7 +17,7 @@ Para conseguir una mayor compatibilidad hardware y con el objetivo de utilizar p
 
 ## Guías
 
-- [**Configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-3.pdf?raw=yes) Guía de configuración
+- [**Configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/Vpnrdp Digitalizaaapp V00r01-18.pdf?raw=yes) Guía de configuración
 - [**Configuración (video)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/VPNRDP.webm?raw=yes) Vídeo de configuración
 
 ### Notas:
@@ -27,7 +25,7 @@ Para conseguir una mayor compatibilidad hardware y con el objetivo de utilizar p
 - Si va a utilizar hardware antiguo debe utilizar la versión de 32bits
 - Si el equipo no arranca correctamente o no detecta bien el hardware (wifi, etc.) cambie de distribución (Opciones: Xubuntu/Lubuntu)
 
-## Versiones
+## Versiones antiguas (no recomendadas)
 
 ### Xubuntu
 
