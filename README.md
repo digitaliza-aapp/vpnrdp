@@ -12,6 +12,8 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN a esc
 
 ## Opciones de funcionamiento
 
+
+  <img src="imagenes/VPNRDP_Opciones.png" >
   ![](imagenes/VPNRDP_Opciones.png)
 
 ## Pasos a realizar para acceder al escritorio remoto:
