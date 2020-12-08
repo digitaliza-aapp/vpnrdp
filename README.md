@@ -14,7 +14,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 
   ![](imagenes/VPNRDP_Opciones.png)
 
-### Pasos a realizar para acceder al escritorio remoto:
+## Pasos a realizar para acceder al escritorio remoto:
 
  (Para una información más detallada consultar la `Guía de configuración`)
  
