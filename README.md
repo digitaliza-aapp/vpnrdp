@@ -4,7 +4,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 
   ![](imagenes/VPNRDP_Opciones.png)
 
-- [**Presentación del proyecto (video)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/Vpnrdp Digitalizaaapp V00r01-18.webm?raw=yes) Vídeo de presentación
+- [**Presentación del proyecto (video)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/Vpnrdp%20Digitalizaaapp%20V00r01-18.webm?raw=yes) Vídeo de presentación
 - [**vpnrdp_kiosk_v02r09x.iso**](https://drive.google.com/file/d/1tnGorP1_Dndvur_7hRf5QQoVzzetgxJd/view?usp=sharing) (9/04/2020) LiveCD vpnrdp_kiosk versión v02r09x 
 - [**vpnrdp_kiosk_v02r09x.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_kiosk_v02r09x.iso.hexhash?raw=yes) (7/12/2020) Huella Digital versión v02r09x
 
