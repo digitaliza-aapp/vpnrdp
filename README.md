@@ -21,8 +21,8 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN a esc
    ![](imagenes/VPNRDP_Pasos.png)
    
   1. Arrancar la imagen desde USB o DVD
-  2. Conectar un USB al equipo con el certificado (p12 ó pfx), renombrarlo como `certificado.p12` y copiarlo al escritorio
-  3. Ejecutar el script `Instalar Certificado` que está en el escritorio `haciendo doble clic sobre el icono`
+  2. Conectar un USB al equipo con el certificado (p12 ó pfx)
+  3. Ejecutar el script para instalar el certificado `haciendo doble clic sobre el icono`
   4. Abrir OpenFortiGUI `haciendo doble clic sobre el icono` y poner las credenciales (usuario/contraseña) y acceder a la VPN
   5. Abrir Remmina `haciendo doble clic sobre el icono` y poner las credenciales para acceder al escritorio remoto (IP,usuario,contraseña y dominio)
   
@@ -34,7 +34,6 @@ Para hacer sugerencias ó reportar incidencias puede enviar un correo electróni
 
 - [**LiveCD vpnrdp**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/README.md) LiveCD - Conexión a escritorios mediante VPN y RDP
 - [**Xubuntu**](https://xubuntu.org/)	Distribución Linux ligera basada en Ubuntu + Escritorio ligero XFCE
-- [**Lubuntu**](https://lubuntu.net/)	Distribución Linux ligera basada en Ubuntu + Escritorio ligero LXDE
 - [**OpenFortiGUI**](https://github.com/theinvisible/openfortigui) VPN-GUI para conexiones a Fortigate basado en
 openfortivpn
 - [**Remmina**](https://remmina.org/)	Cliente de escritorio remoto
