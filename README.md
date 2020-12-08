@@ -31,6 +31,11 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN a esc
 Para hacer sugerencias ó reportar incidencias puede enviar un correo electrónico a digitaliza.aapp@gmail.com  
 
 ## Créditos
+
+El LiveCD vpnrdp utiliza componentes Open Source. A continuación puede encontrar un enlace a los proyectos. Reconocemos y agradecemos a los desarrolladores su contribución al código abierto.
+
+This application uses Open Source components. You can find a link to their projects, we acknowledge and are grateful to these developers for their contributions to open source.
+
 - [**LiveCD vpnrdp**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/README.md) LiveCD - Conexión a escritorios mediante VPN y RDP
 - [**Xubuntu**](https://xubuntu.org/)	Distribución Linux ligera basada en Ubuntu + Escritorio ligero XFCE
 - [**OpenFortiGUI**](https://github.com/theinvisible/openfortigui) VPN-GUI para conexiones a Fortigate basado en
