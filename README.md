@@ -2,6 +2,8 @@
 LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fortigate) a escritorios corporativos remotos utilizando el protocolo RDP.
 (OpenSource para ayudar a los departamentos de IT en la crisis del COVID-19)
 
+  ![](imagenes/Terminal_Instalar_Certificado_01.png)
+
 - [**vpnrdp_kiosk_v02r09x.iso**](https://drive.google.com/file/d/1VI78GwuafvOn5iqThvObzV8_r5dW2MXC/view?usp=sharing) (9/04/2020) LiveCD vpnrdp_kiosk versión v02r09x 
 - [**vpnrdp_kiosk_v02r09x.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_kiosk_v02r09x.iso.hexhash?raw=yes) (7/12/2020) Huella Digital versión v02r09x
 
@@ -27,6 +29,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 
 ## Versiones antiguas (no recomendadas)
 
+Versiones no recomendadas, solamente están disponibles las versiones de 32bits.
 ### Xubuntu
 
 #### 32bits (Xubuntu 16.04.3 i386)
@@ -34,17 +37,8 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 ##### Versión v00r02-8x i386 - 9/04/2020
 
 - [**vpnrdp_v00r02-8x_i386.iso**](https://drive.google.com/file/d/1fRM5PWdOmFYDIsWvUjNOPnzTAPEMaxly/view?usp=sharing) (9/04/2020) LiveCD vpnrdp versión v00r02-8x i386 
-- [**vpnrdp_v00r02-8x_i386.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-8x_i386.iso.hexhash?raw=yes) (9/04/2020) Huella Digital versión v00r02-8x i386  
- 
+- [**vpnrdp_v00r02-8x_i386.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-8x_i386.iso.hexhash?raw=yes) (9/04/2020) Huella Digital versión v00r02-8x i386   
 
-#### 64bits (Lubuntu 18.04.4 amd64 - Arquitecturas de 64bits)
-
-#### Versión v00r02-8x amd64 - 9/04/2020
-
-- [**vpnrdp_v00r02-8x_amd64.iso**](https://drive.google.com/file/d/1VI78GwuafvOn5iqThvObzV8_r5dW2MXC/view?usp=sharing) (9/04/2020) LiveCD vpnrdp versión v00r02-8x amd64 
-- [**vpnrdp_v00r02-8x_amd64.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-8x_amd64.iso.hexhash?raw=yes) (9/04/2020) Huella Digital versión v00r02-8x amd64
-
- 
 ### Lubuntu
 
 #### 32bits (Lubuntu 16.04.3 i386)
@@ -54,30 +48,6 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN (Fort
 - [**vpnrdp_v00r02-8l_i386.iso**](https://drive.google.com/file/d/1vSydLWYLegCkk1uDnXZK72AETPfnGPQ3/view?usp=sharing) (9/04/2020) LiveCD vpnrdp versión v00r02-8l i386 
 - [**vpnrdp_v00r02-8l_i386.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-8l_i386.iso.hexhash?raw=yes) (9/04/2020) Huella Digital versión v00r02-8l i386  
  
-
-#### 64bits (Lubuntu 18.04.4 amd64 - Arquitecturas de 64bits)
-
-#### Versión v00r02-8l amd64 - 9/04/2020
-
-- [**vpnrdp_v00r02-8l_amd64.iso**](https://drive.google.com/file/d/1nSl3EVLcerXn0rP18SIJEziThkzNPaR7/view?usp=sharing) (9/04/2020) LiveCD vpnrdp versión v00r02-8l amd64 
-- [**vpnrdp_v00r02-8l_amd64.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_v00r02-8l_amd64.iso.hexhash?raw=yes) (9/04/2020) Huella Digital versión v00r02-8l amd64
-
- `Versión v00r02-6 i386: Añadir herramientas para clonado y generación de USBs con persistencia`
- 
-## Problemas
-
-### Error 1: Ha solicitado el modo H264 GFX pero su libfreerdp no admite H264 compruebe los ajuste de profundidad de color
-  ```Solución: Realizar cambios en la profundidad de color (Ejemplo: Color verdadero 24ppp)```
-   
-  ````Si detecta problemas en conexiónes RDP que a su vez utilizan clientes Citrix pruebe cambiar la profundidad de color a 16ppp o inferior````
-
-### Error 2: Al hacer doble clic sobre el icono `Instalar Certificado`no se solicita la palabra de paso del certificado digital
-
-  1. Pulsar simultaneamente las teclas `Ctrl` + ` Alt` + `t` y aparecerá un terminal de comandos
-  2. Teclear `./Escritorio/Instalar\ Certificado` y pulsar la tecla `Enter`
-  3. Introducir la contraseña del certificado (2 veces).
-  
-  ![](imagenes/Terminal_Instalar_Certificado_01.png)
 
 ## Contacto
 
