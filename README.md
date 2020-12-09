@@ -19,7 +19,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN a esc
 Imagen preparada para trabajar en modo persistente.
 
 - [**v02r09.1x_kiosk_amd64.img**](https://drive.google.com/file/d/1hJf0i1TLtslUuo_3QQYFp5fC8nvZ6tUw/view?usp=sharing) (7/12/2020) Imagen vpnrdp_kiosk versión v02r09.1x (amd64 64bits) 
-- [**v02r09.1x_kiosk_amd64.img.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/v02r09.1x_kiosk_amd64.img.hexhash?raw=yes) (7/12/2020) Huella Digital imagen vpnrdp_kiosk versión v02r09.1x (amd64 64bits) 
+- [**v02r09.1x_kiosk_amd64.img.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/v02r09.1x_kiosk_amd64.img.hexhash?raw=yes) (7/12/2020) Huella Digital imagen vpnrdp_kiosk versión v02r09.1x
 
 Nota:  Para copiar la imagen a un pendrive puede utilizar programas como Rufus (https://rufus.ie/)
 
