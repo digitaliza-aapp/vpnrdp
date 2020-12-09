@@ -4,16 +4,25 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN a esc
 
 [**Presentación del proyecto**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/Vpnrdp%20Digitalizaaapp%20V00r01-18.webm?raw=yes) Vídeo de presentación
 
+## Opciones de funcionamiento
+
+  <img src="imagenes/VPNRDP_Opciones.png" >
+ 
 ## Descargas
 
 - [**vpnrdp_kiosk_v02r09.1x.iso**](https://drive.google.com/file/d/1r7vO-KnBmAycFOuWvvcVs9Uud3H3lDOM/view?usp=sharing) (7/12/2020) LiveCD vpnrdp_kiosk versión v02r09.1x (amd64 64bits) 
 - [**vpnrdp_kiosk_v02r09.1x.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_kiosk_v02r09.1x.iso.hexhash?raw=yes) (7/12/2020) Huella Digital versión v02r09.1x
 - [**Guía de configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_kiosk_v00r02.pdf?raw=yes) Guía de configuración
 
-## Opciones de funcionamiento
+## Imagen persistente
 
-  <img src="imagenes/VPNRDP_Opciones.png" >
- 
+Imagen preparada para trabajar en modo persistente.
+
+- [**v02r09.1x_kiosk_amd64.img**](https://drive.google.com/file/d/1hJf0i1TLtslUuo_3QQYFp5fC8nvZ6tUw/view?usp=sharing) (7/12/2020) Imagen vpnrdp_kiosk versión v02r09.1x (amd64 64bits) 
+- [**v02r09.1x_kiosk_amd64.img.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/v02r09.1x_kiosk_amd64.img.hexhash?raw=yes) (7/12/2020) Huella Digital imagen vpnrdp_kiosk versión v02r09.1x (amd64 64bits) 
+
+Nota:  Para copiar la imagen a un pendrive puede utilizar programas como Rufus (https://rufus.ie/)
+
 ## Pasos a realizar para acceder al escritorio remoto:
 
  (Para una información más detallada consultar la `Guía de configuración`)
