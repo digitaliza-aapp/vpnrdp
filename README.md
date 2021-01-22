@@ -10,7 +10,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN a esc
  
 ## Descarga ISO
 
-- [**vpnrdp_kiosk_v02r09.1x.iso**](https://drive.google.com/file/d/1r7vO-KnBmAycFOuWvvcVs9Uud3H3lDOM/view?usp=sharing) (7/12/2020) LiveCD vpnrdp_kiosk versión v02r09.1x (amd64 64bits) 
+- [**vpnrdp_kiosk_v02r09.1x.iso**](https://drive.google.com/file/d/1r7vO-KnBmAycFOuWvvcVs9Uud3H3lDOM/view?usp=sharingKKK) (7/12/2020) LiveCD vpnrdp_kiosk versión v02r09.1x (amd64 64bits) 
 - [**vpnrdp_kiosk_v02r09.1x.iso.hexhash**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_kiosk_v02r09.1x.iso.hexhash?raw=yes) (7/12/2020) Huella Digital versión v02r09.1x
 - [**Guía de configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_kiosk_v00r02.pdf?raw=yes) Guía de configuración
 
