@@ -21,12 +21,10 @@ Imagen preparada para trabajar en modo persistente (no es necesario instalar el 
 
 Nota:  Para copiar la imagen a un pendrive puede utilizar programas como Rufus (https://rufus.ie/)
 
- 
 ## Descarga ISO
 
 - [**vpnrdp_kiosk_v02r10.2x.iso**](https://drive.google.com/file/d/10IbgQXiadbvc7Gap9S6s8ZKifd_lgmIW/view?usp=sharing) (23/01/2021) LiveCD vpnrdp_kiosk versión v02r10.2x (amd64 64bits) 
 - [**vpnrdp_kiosk_v02r10.2x.iso.hexhash**](https://drive.google.com/file/d/12GC8hZMo2Bp4ZHomXDnsxNZoy1v1aSy9/view?usp=sharing) (23/01/2021) Huella Digital versión v02r10.2x
-- [**Guía de configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_kiosk_v00r03.pdf?raw=yes) Guía de configuración
 
 ## Pasos a realizar para acceder al escritorio remoto:
 
