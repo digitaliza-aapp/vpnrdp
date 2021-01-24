@@ -21,6 +21,10 @@ Imagen preparada para trabajar en modo persistente (no es necesario instalar el 
 
 Nota:  Para copiar la imagen a un pendrive puede utilizar programas como Rufus (https://rufus.ie/)
 
+```
+Si el sistema no arranca en equipos con el firmware UEFI puede ser debido a que está activada la opción 'Secure Boot'
+```
+
 ## Descarga ISO
 
 Imagen ISO
