@@ -8,13 +8,11 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN a esc
 
   <img src="imagenes/VPNRDP_Opciones.png" >
  
-## Descarga ISO
+## Configuración
 
-- [**vpnrdp_kiosk_v02r10.2x.iso**](https://drive.google.com/file/d/10IbgQXiadbvc7Gap9S6s8ZKifd_lgmIW/view?usp=sharing) (23/01/2021) LiveCD vpnrdp_kiosk versión v02r10.2x (amd64 64bits) 
-- [**vpnrdp_kiosk_v02r10.2x.iso.hexhash**](https://drive.google.com/file/d/12GC8hZMo2Bp4ZHomXDnsxNZoy1v1aSy9/view?usp=sharing) (23/01/2021) Huella Digital versión v02r10.2x
 - [**Guía de configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_kiosk_v00r03.pdf?raw=yes) Guía de configuración
 
-## Imagen persistente
+## Imagen persistente (Opción recomendada)
 
 Imagen preparada para trabajar en modo persistente.
 
@@ -22,6 +20,12 @@ Imagen preparada para trabajar en modo persistente.
 - [**v02r10.2x_kiosk_amd64_1.img.hexhash**](https://drive.google.com/file/d/1U9rYLG4FnuakjwKDPRBN-Ls-4wlL8Tdw/view?usp=sharing) (23/01/2021) Huella Digital imagen vpnrdp_kiosk versión v02r10.2x
 
 Nota:  Para copiar la imagen a un pendrive puede utilizar programas como Rufus (https://rufus.ie/)
+
+## Descarga ISO
+
+- [**vpnrdp_kiosk_v02r10.2x.iso**](https://drive.google.com/file/d/10IbgQXiadbvc7Gap9S6s8ZKifd_lgmIW/view?usp=sharing) (23/01/2021) LiveCD vpnrdp_kiosk versión v02r10.2x (amd64 64bits) 
+- [**vpnrdp_kiosk_v02r10.2x.iso.hexhash**](https://drive.google.com/file/d/12GC8hZMo2Bp4ZHomXDnsxNZoy1v1aSy9/view?usp=sharing) (23/01/2021) Huella Digital versión v02r10.2x
+- [**Guía de configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_kiosk_v00r03.pdf?raw=yes) Guía de configuración
 
 ## Pasos a realizar para acceder al escritorio remoto:
 
