@@ -14,13 +14,14 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN a esc
 
 ## Imagen persistente (Opción recomendada)
 
-Imagen preparada para trabajar en modo persistente.
+Imagen preparada para trabajar en modo persistente (no es necesario instalar el certificado en cada arranque del sistema), permite el arranque dual BIOS (Legacy MBR) y UEFI y crea una partición para poder almacenar el certificado digital (pfx ó p12 ) y facilitar su instalación,
 
 - [**v02r10.2x_kiosk_amd64_1.img**](https://drive.google.com/file/d/1N2pjgIZg6WLGV0Qh8NyK916ZgBA3xZuN/view?usp=sharing) (23/01/2021) Imagen vpnrdp_kiosk versión v02r10.2x (amd64 64bits) 
 - [**v02r10.2x_kiosk_amd64_1.img.hexhash**](https://drive.google.com/file/d/1U9rYLG4FnuakjwKDPRBN-Ls-4wlL8Tdw/view?usp=sharing) (23/01/2021) Huella Digital imagen vpnrdp_kiosk versión v02r10.2x
 
 Nota:  Para copiar la imagen a un pendrive puede utilizar programas como Rufus (https://rufus.ie/)
 
+ 
 ## Descarga ISO
 
 - [**vpnrdp_kiosk_v02r10.2x.iso**](https://drive.google.com/file/d/10IbgQXiadbvc7Gap9S6s8ZKifd_lgmIW/view?usp=sharing) (23/01/2021) LiveCD vpnrdp_kiosk versión v02r10.2x (amd64 64bits) 
