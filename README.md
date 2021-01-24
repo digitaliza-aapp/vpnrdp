@@ -19,11 +19,10 @@ Imagen preparada para trabajar en modo persistente (no es necesario instalar el 
 - [**v02r10.2x_kiosk_amd64_1.img**](https://drive.google.com/file/d/1N2pjgIZg6WLGV0Qh8NyK916ZgBA3xZuN/view?usp=sharing) (23/01/2021) Imagen vpnrdp_kiosk versión v02r10.2x (amd64 64bits) 
 - [**v02r10.2x_kiosk_amd64_1.img.hexhash**](https://drive.google.com/file/d/1U9rYLG4FnuakjwKDPRBN-Ls-4wlL8Tdw/view?usp=sharing) (23/01/2021) Huella Digital imagen vpnrdp_kiosk versión v02r10.2x
 
+```
 Nota:  Para copiar la imagen a un pendrive puede utilizar programas como Rufus (https://rufus.ie/)
-
 ```
 Si el sistema no arranca en equipos con el firmware UEFI puede ser debido a que está activada la opción **Secure Boot**
-```
 
 ## Descarga ISO
 
