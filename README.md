@@ -12,11 +12,6 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN a esc
 
 - [**Guía de configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_kiosk_v00r03.pdf?raw=yes) Guía de configuración
 
-### Notas sobre puertos autorizados
-
-- Entrada/Salida: ICMP
-- Salida:  53(dns), 67(dhcp), 80(http), 123(ntp), 443(https), 3389(rdp)
-
 ```En próximas versiones se permitirá asignar un puerto distinto al 3389 para RDP```
 
 ## Imagen persistente (Opción recomendada)
