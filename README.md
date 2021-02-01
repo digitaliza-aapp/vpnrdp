@@ -54,7 +54,7 @@ Imagen ISO
 
 #### Antivirus
 
-- Clamav: Base de datos actualizada cada hora
+- Clamav: Búsqueda de actualizaciones en la base de datos de virus cada hora
 
 ## Contacto
 
