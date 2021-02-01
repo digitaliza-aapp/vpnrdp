@@ -17,7 +17,7 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN a esc
 - Entrada/Salida: ICMP
 - Salida:  53(dns), 67(dhcp), 80(http), 123(ntp), 443(https), 3389(rdp)
 
-```En próximas versiones se permitirá asignar un puerto distinto al 3389 para RDP```
+```En próximas versiones se permitirá cambiar el puerto asignado por defecto para conexiones RDP (3389)```
 
 ## Imagen persistente (Opción recomendada)
 
