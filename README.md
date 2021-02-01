@@ -45,8 +45,9 @@ Imagen ISO
 
 ## Notas
 
-- Puertos autorizados entrada/salida: ICMP
-- Puertos salida:  53(dns), 67(dhcp), 80(http), 123(ntp), 443(https), 3389(rdp)
+- Puertos autorizados
+--Entrada/Salida: ICMP
+-- Salida:  53(dns), 67(dhcp), 80(http), 123(ntp), 443(https), 3389(rdp)
 - La base de datos del antivirus ClamAV se actualiza cada hora
 
 ```En próximas versiones se permitirá cambiar el puerto asignado por defecto para conexiones RDP (3389)```
