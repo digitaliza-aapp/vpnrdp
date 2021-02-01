@@ -74,7 +74,7 @@ openfortivpn
 - [**Firefox**](http://mozilla.org) Navegador Web
 - [**FreeRDP**](https://github.com/FreeRDP/FreeRDP) Implementación protocolo RDP
 - [**XFreeRDP-GUI**](https://github.com/wyllianbs/xfreerdp-gui) Entorno gráfico para FreeRDP
-- [**Clamav**](https://www.clamav.net/downloads) Antivirus Open Source
+- [**ClamAV**](https://www.clamav.net/downloads) Antivirus Open Source
 - [**Docky**](https://launchpad.net/docky) Lanzador de aplicaciones
 - [**Mkusb**](https://launchpad.net/~mkusb/+archive/ubuntu/ppa) Herramienta para crear unidades de arranque USB
 - [**SystemBack**](https://sourceforge.net/projects/systemback/) Simple system backup and restore
