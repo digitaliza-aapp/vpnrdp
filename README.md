@@ -12,14 +12,6 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN a esc
 
 - [**Guía de configuración (pdf)**](https://github.com/digitaliza-aapp/vpnrdp/blob/master/vpnrdp_kiosk_v00r03.pdf?raw=yes) Guía de configuración
 
-### Notas
-
-- Puertos autorizados entrada/salida: ICMP
-- Puertos salida:  53(dns), 67(dhcp), 80(http), 123(ntp), 443(https), 3389(rdp)
-- La base de datos del antivirus ClamAV se actualiza cada hora
-
-```En próximas versiones se permitirá cambiar el puerto asignado por defecto para conexiones RDP (3389)```
-
 ## Imagen persistente (Opción recomendada)
 
 Imagen preparada para trabajar en modo persistente (no es necesario instalar el certificado en cada arranque del sistema) y permite arranque dual MBR (Legacy BIOS) / UEFI.
@@ -50,7 +42,15 @@ Imagen ISO
   3. Ejecutar el script para instalar el certificado `haciendo doble clic sobre el icono`
   4. Abrir OpenFortiGUI `haciendo doble clic sobre el icono` y poner las credenciales (usuario/contraseña) y acceder a la VPN
   5. Abrir Remmina `haciendo doble clic sobre el icono` y poner las credenciales para acceder al escritorio remoto (IP,usuario,contraseña y dominio)
-  
+
+## Notas
+
+- Puertos autorizados entrada/salida: ICMP
+- Puertos salida:  53(dns), 67(dhcp), 80(http), 123(ntp), 443(https), 3389(rdp)
+- La base de datos del antivirus ClamAV se actualiza cada hora
+
+```En próximas versiones se permitirá cambiar el puerto asignado por defecto para conexiones RDP (3389)```
+
 ## Contacto
 
 Para hacer sugerencias ó reportar incidencias puede enviar un correo electrónico a digitaliza.aapp@gmail.com  
