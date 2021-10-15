@@ -16,8 +16,8 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN a esc
 
 Imagen preparada para trabajar en modo persistente (no es necesario instalar el certificado en cada arranque del sistema) y permite arranque dual MBR (Legacy BIOS) / UEFI.
 
-- [**v02r12x_kiosk_amd64_3.img**](https://drive.google.com/file/d/1LamVRNLVf6TLbZDtFnwinqxieP5Vl9IG/view?usp=sharing) (15/10/2021) Imagen vpnrdp_kiosk versión v02r12x (amd64 64bits) 
-- [**v02r12x_kiosk_amd64_3.img.hexhash**](https://drive.google.com/file/d/1iNHUaZjxTgt9NSKatg5nd9Dn-xdNrp2p/view?usp=sharing) (15/10/2021) Huella Digital imagen vpnrdp_kiosk versión v02r12x
+- [**v02r12x_kiosk_amd64.img**](https://drive.google.com/file/d/1LamVRNLVf6TLbZDtFnwinqxieP5Vl9IG/view?usp=sharing) (15/10/2021) Imagen vpnrdp_kiosk versión v02r12x (amd64 64bits) 
+- [**v02r12x_kiosk_amd64.img.hexhash**](https://drive.google.com/file/d/1iNHUaZjxTgt9NSKatg5nd9Dn-xdNrp2p/view?usp=sharing) (15/10/2021) Huella Digital imagen vpnrdp_kiosk versión v02r12x
 
 
 Nota:  Para copiar la imagen a un pendrive puede utilizar programas como Rufus (https://rufus.ie/)
