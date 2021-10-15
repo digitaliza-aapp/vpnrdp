@@ -16,8 +16,8 @@ LiveCD para realizar conexiones seguras sobre redes públicas mediante VPN a esc
 
 Imagen preparada para trabajar en modo persistente (no es necesario instalar el certificado en cada arranque del sistema) y permite arranque dual MBR (Legacy BIOS) / UEFI.
 
-- [**v02r10.2x_kiosk_amd64_3.img**](https://drive.google.com/file/d/1EfUkls--i0dfu6okUs3X3TK1iXYHOUFY/view?usp=sharing) (01/02/2021) Imagen vpnrdp_kiosk versión v02r10.2x (amd64 64bits) 
-- [**v02r10.2x_kiosk_amd64_3.img.hexhash**](https://drive.google.com/file/d/1tFNPqUiACE5aUVd-QAzQeAx0JOqE7Zcg/view?usp=sharing) (01/02/2021) Huella Digital imagen vpnrdp_kiosk versión v02r10.2x
+- [**v02r12x_kiosk_amd64_3.img**](https://drive.google.com/file/d/1LamVRNLVf6TLbZDtFnwinqxieP5Vl9IG/view?usp=sharing) (15/10/2021) Imagen vpnrdp_kiosk versión v02r12x (amd64 64bits) 
+- [**v02r12x_kiosk_amd64_3.img.hexhash**](https://drive.google.com/file/d/1iNHUaZjxTgt9NSKatg5nd9Dn-xdNrp2p/view?usp=sharing) (15/10/2021) Huella Digital imagen vpnrdp_kiosk versión v02r12x
 
 
 Nota:  Para copiar la imagen a un pendrive puede utilizar programas como Rufus (https://rufus.ie/)
@@ -28,8 +28,8 @@ Si el sistema no arranca en equipos con el ```firmware UEFI``` puede ser debido 
 
 Imagen ISO
 
-- [**vpnrdp_kiosk_v02r10.2x.iso**](https://drive.google.com/file/d/10IbgQXiadbvc7Gap9S6s8ZKifd_lgmIW/view?usp=sharing) (23/01/2021) LiveCD vpnrdp_kiosk versión v02r10.2x (amd64 64bits) 
-- [**vpnrdp_kiosk_v02r10.2x.iso.hexhash**](https://drive.google.com/file/d/12GC8hZMo2Bp4ZHomXDnsxNZoy1v1aSy9/view?usp=sharing) (23/01/2021) Huella Digital versión v02r10.2x
+- [**vpnrdp_kiosk_v02r12x.iso**](https://drive.google.com/file/d/10efDoAuHJtllyPnJ-v4XMEh388YEaMET/view?usp=sharing) (15/10/2021) LiveCD vpnrdp_kiosk versión v02r12x (amd64 64bits) 
+- [**vpnrdp_kiosk_v02r12x.iso.hexhash**](https://drive.google.com/file/d/1Mxwn3BvzqgcZ_lVAcm834ntlClzXHNxk/view?usp=sharing) (15/10/2021) Huella Digital versión v02r12x
 
 ## Pasos a realizar para acceder al escritorio remoto:
 
