@@ -50,8 +50,6 @@ Imagen ISO
 - Entrada/Salida: ICMP
 - Salida:  53(dns), 67(dhcp), 80(http), 123(ntp), 443(https), 3389(rdp)
 
-```En próximas versiones se permitirá cambiar el puerto asignado por defecto para conexiones RDP (3389)```
-
 #### Antivirus
 
 - ClamAV: Búsqueda de actualizaciones en la base de datos de virus cada hora
